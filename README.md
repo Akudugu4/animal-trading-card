@@ -5,7 +5,7 @@ A simple project that displays an animal’s profile using structured HTML and C
 ## 🚀 Features
 - Clean card layout
 - Styled using CSS
-- Responsive design (if applicable)
+- Responsive design
 
 ## 🛠 Technologies
 - HTML
